@@ -1,4 +1,4 @@
-# SQL-Video_Games_Sale
+# SQL - Video Games Sales
 This dataset is obtained from:
 https://www.kaggle.com/datasets/zahidmughal2343/video-games-sale
 
