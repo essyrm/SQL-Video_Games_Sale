@@ -14,3 +14,21 @@ https://www.kaggle.com/datasets/zahidmughal2343/video-games-sale
 - JP_Sales – Japan sales (in millions)
 - Other_Sales – Sales in other regions (in millions)
 - Global_Sales – Total worldwide sales (in millions)
+
+## Analysis
+1. Which platform have the most sales in each regions?
+Here are top three of platforms that has the most sales in each regions.
+| North America | Sales |
+| --- | --- |
+| X360 | 337.53 |
+| PS2 | 271.63 |
+| Wii | 261.31 |
+
+3. What year returns the most video games sales globally?
+4. Which genre of the video games created the most?
+
+Which films received the most awards? Are they also the best rated?
+
+How do sequels compare to their originals?
+
+Have genres and ratings evolved over time?
