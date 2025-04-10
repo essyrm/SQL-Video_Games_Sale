@@ -1,6 +1,5 @@
 # SQL - Video Games Sales
-This dataset is obtained from:
-https://www.kaggle.com/datasets/zahidmughal2343/video-games-sale
+This dataset is obtained from: [Kaggle Video Games Sales Dataset](https://www.kaggle.com/datasets/zahidmughal2343/video-games-sale)
 
 ## Columns
 - id_game – Game ID
